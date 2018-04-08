@@ -16,3 +16,10 @@ print(beverage)
 first=beverage.pop()
 #pop take last element from the list
 print(first)
+
+a=len(beverage)
+print(a)
+print(beverage)
+beverage.reverse()
+print(beverage)
+print(beverage[3])
