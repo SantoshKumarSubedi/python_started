@@ -1,7 +1,6 @@
 flag='y'
 voters=[]
 while flag.lower()=='y':
-
     name=input("Enter name:")
     age=input("Enter age:")
     age=int(age)
